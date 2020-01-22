@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PhotoAppApiAlbums
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: McKinleyTolentino
+Implementation-Vendor-Id: com.appsdeveloperblog.photoapp.api.albums
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PhotoAppApiAlbums
+Created-By: Maven Integration for Eclipse
+
